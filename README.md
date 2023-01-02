@@ -1,1 +1,2 @@
 # odin-landing-page
+For this project I'll be creating an entire web page from a design provided for me (an image of the complete website and details about fonts and colors). If I have been following along with the lessons then I should have the skills needed to accomplish this. Once I have completed this project I will have demonstrated CSS Foundations and Flexbox skills.
